@@ -6,18 +6,18 @@
 <head>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>NGC Earth - Semeru</title>
+<title>MysteryE Keeper</title>
 <meta name="description" content="">
 <meta name="robots" content="all,index,follow">
 <meta name="googlebot" content="all,index,follow">
 <meta name="revisit-after" content="2 days">
-<meta name="author" content="Nukegraphic Indonesia">
+<meta name="author" content="Egar Astawiguna">
 <meta name="rating" content="general">
-<meta property="og:title" content="NGC Custom Boilerplate">
+<meta property="og:title" content="MysteryE Keeper">
 <meta property="og:image" content="">
-<meta property="og:site_name" content="NGC Custom Boilerplate">
-<meta property="og:description" content="">
-<meta property="og:url" content="http://nukegraphic.com">
+<meta property="og:site_name" content="MysteryE Keeper">
+<meta property="og:description" content="All relics owned by my account.">
+<meta property="og:url" content="">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="shortcut icon" href="favicon.png?v=1" type="image/x-icon">
 <!-- Theme color for chrome, firefox and opera -->
