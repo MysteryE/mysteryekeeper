@@ -935,10 +935,10 @@
 						            <tr>
 						                <td>FF3</td>
 						                <td>Desch</td>
-						                <td>(total devotion)</td>
-						                <td>LMR</td>
+						                <td>Bracer</td>
+						                <td>LMR 1</td>
 						                <td></td>
-						                <td></td>
+						                <td>MAG +1% for each hit dealt with damaging BLK attacks, up to +20%</td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td></td>
 						            </tr>
@@ -985,10 +985,10 @@
 						            <tr>
 						                <td>FF3</td>
 						                <td>Luneth</td>
-						                <td>(orphan of ur)</td>
-						                <td>LMR</td>
+						                <td>Blessed Hammer</td>
+						                <td>LMR 1</td>
 						                <td></td>
-						                <td></td>
+						                <td>En-wind. Grants Attach Wind at the beginning of the battle</td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td></td>
 						            </tr>
@@ -1450,7 +1450,7 @@
 						                <td>Tabby Suit</td>
 						                <td>LMR</td>
 						                <td></td>
-						                <td></td>
+						                <td>35% chance to grant Quick Cast 1 to the target after using a single-target White Magic ability that restores HP on an ally</td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td></td>
 						            </tr>
@@ -1959,10 +1959,10 @@
 						            <tr>
 						                <td>FF5</td>
 						                <td>Galuf</td>
-						                <td>(regal nature)</td>
-						                <td>LMR</td>
+						                <td>Lambent Hat</td>
+						                <td>LMR 3</td>
 						                <td></td>
-						                <td></td>
+						                <td>En-earth. Grants Attach Earth at the beginning of the battle</td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td></td>
 						            </tr>
@@ -2241,10 +2241,10 @@
 						            <tr>
 						                <td>FF6</td>
 						                <td>Relm</td>
-						                <td>(wondrous hues)</td>
-						                <td>LMR</td>
+						                <td>Relm's Hat</td>
+						                <td>LMR 1</td>
 						                <td></td>
-						                <td></td>
+						                <td>27% chance to grant Magical Blink 1 to the target after using a single-target White Magic ability that restores HP on an ally</td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td></td>
 						            </tr>
@@ -2301,10 +2301,10 @@
 						            <tr>
 						                <td>FF6</td>
 						                <td>Sabin</td>
-						                <td>(master's teachings)</td>
-						                <td>LMR</td>
+						                <td>Vishnu Vest</td>
+						                <td>LMR 1</td>
 						                <td></td>
-						                <td></td>
+						                <td>ATK +2% for each hit dealt with Monk abilities, up to +34%</td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td></td>
 						            </tr>
@@ -2442,7 +2442,7 @@
 						                <td>FF6</td>
 						                <td>Celes</td>
 						                <td>Celes' Cloak</td>
-						                <td>LMR</td>
+						                <td>LMR 1</td>
 						                <td></td>
 						                <td>25% chance to dualcast Spellblade abilities</td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
@@ -2451,10 +2451,10 @@
 						            <tr>
 						                <td>FF6</td>
 						                <td>Celes</td>
-						                <td>(Rebel Knight)</td>
-						                <td>LMR</td>
+						                <td>Platinum Shield</td>
+						                <td>LMR 2</td>
 						                <td></td>
-						                <td></td>
+						                <td>En-ice. Grants Attach Ice at the beginning of the battle</td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td></td>
 						            </tr>
@@ -2654,7 +2654,7 @@
 						                <td>FF7</td>
 						                <td>Cloud</td>
 						                <td>Brave Blade</td>
-						                <td>AASB</td>
+						                <td>AASB 1</td>
 						                <td>Wind / NE</td>
 						                <td>En-wind. Fifteen single attacks (0.60 each), grants Attach Wind, Awoken Wind, Damage Cap +10000, 100% Critical, High Quick Cast and Cloudy Wolf Mode to the user</td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
@@ -2916,7 +2916,7 @@
 						                <td>Yuffie's Guise</td>
 						                <td>LMR</td>
 						                <td></td>
-						                <td></td>
+						                <td>25% chance to grant Physical Blink 1 to the user after using a Ninja ability</td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td></td>
 						            </tr>
@@ -2944,9 +2944,9 @@
 						                <td>FF7</td>
 						                <td>Cid</td>
 						                <td>Cid's Jacket</td>
-						                <td>LMR</td>
+						                <td>LMR 1</td>
 						                <td></td>
-						                <td></td>
+						                <td>Jump attacks deal 20% more damage when equipping a spear</td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td></td>
 						            </tr>
@@ -3884,16 +3884,6 @@
 						            </tr>
 						            <tr>
 						                <td>FF8</td>
-						                <td>Selphie</td>
-						                <td>Faerie Tail</td>
-						                <td>USB 1</td>
-						                <td>Medica</td>
-						                <td>Restores HP (85), grants Last Stand and High Regen</td>
-						                <td></td>
-						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
-						            </tr>
-						            <tr>
-						                <td>FF8</td>
 						                <td>Seifer</td>
 						                <td>Almasy Shear Trigger</td>
 						                <td>BSB 1</td>
@@ -3919,6 +3909,16 @@
 						                <td>LMR 3</td>
 						                <td></td>
 						                <td>25% chance to dualcast Darkness abilities</td>
+						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						            </tr>
+						            <tr>
+						                <td>FF8</td>
+						                <td>Selphie</td>
+						                <td>Faerie Tail</td>
+						                <td>USB 1</td>
+						                <td>Medica</td>
+						                <td>Restores HP (85), grants Last Stand and High Regen</td>
 						                <td></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						            </tr>
@@ -4239,8 +4239,8 @@
 						                <td>Marcus</td>
 						                <td>Marcus's Sword</td>
 						                <td>USB</td>
-						                <td></td>
-						                <td></td>
+						                <td>Wind / Poison</td>
+						                <td>Imperil Wind (2). Ten single attacks (0.63 each), causes Imperil Wind 20% for 25 seconds, grants Swift Poison Follow-Up to the user</td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td></td>
 						            </tr>
@@ -4943,9 +4943,9 @@
 						                <td>FF11</td>
 						                <td>Aphmau</td>
 						                <td>Alkyoneus's Bracelet</td>
-						                <td>LMR</td>
+						                <td>LMR 1</td>
 						                <td></td>
-						                <td></td>
+						                <td>25% chance to grant HP Stock (2000) to the target after using a single-target White Magic ability that restores HP on an ally</td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td></td>
 						            </tr>
@@ -6624,8 +6624,8 @@
 						                <td>Marach</td>
 						                <td>Gokuu Pole</td>
 						                <td>USB</td>
-						                <td></td>
-						                <td></td>
+						                <td>Lightning / NE</td>
+						                <td>Eight random attacks (2.07 each), ATK, DEF, MAG and RES -40% for 25 seconds, grants Magical Blink 1 to all allies</td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td></td>
 						            </tr>
@@ -6812,10 +6812,10 @@
 						            <tr>
 						                <td>FFT</td>
 						                <td>Agrias</td>
-						                <td>(divine devastation)</td>
-						                <td>USB</td>
-						                <td></td>
-						                <td></td>
+						                <td>Save the Queen Divine</td>
+						                <td>USB 2</td>
+						                <td>Holy / NE</td>
+						                <td>Imperil Holy (2). Ten random attacks (0.67 each), causes Imperil Holy 20% for 25 seconds, grants Divine Purge Follow-Up to the user</td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td></td>
 						            </tr>
@@ -7117,7 +7117,7 @@
 						                <td>Sice's Guise</td>
 						                <td>BSB</td>
 						                <td>Dark / NE</td>
-						                <td></td>
+						                <td>Eight single attacks (0.83 each), ATK and MND +30% to all allies for 25 seconds, grants Haste and Doom: 30 to all allies, grants Burst Mode to the user</td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td></td>
 						            </tr>
@@ -7135,7 +7135,7 @@
 						                <td>FFT0</td>
 						                <td>Deuce</td>
 						                <td>Feathered Cap</td>
-						                <td>LMR</td>
+						                <td>LMR 1</td>
 						                <td></td>
 						                <td>Increases the duration of stat buffs by 30%</td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
@@ -7144,10 +7144,10 @@
 						            <tr>
 						                <td>FFT0</td>
 						                <td>Deuce</td>
-						                <td>(reserved demeanor)</td>
-						                <td>LMR</td>
+						                <td>Baroque Flute</td>
+						                <td>LMR 2</td>
 						                <td></td>
-						                <td></td>
+						                <td>25% chance to grant Heals +30% for 10 seconds to the user after using a Bard ability</td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td></td>
 						            </tr>
@@ -7228,8 +7228,8 @@
 						                <td>Sora</td>
 						                <td>Lionheart</td>
 						                <td>USB</td>
-						                <td></td>
-						                <td></td>
+						                <td>Fire / Lightning / Ice</td>
+						                <td>Ten single ranged attacks (0.70 each), grants 50% Critical and EX: Connected Hearts to the user</td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td></td>
 						            </tr>
@@ -7239,7 +7239,7 @@
 						                <td>Metal Chocobo</td>
 						                <td>BSB</td>
 						                <td>Fire / Lightning / Ice</td>
-						                <td></td>
+						                <td>Eight single attacks (0.82 each), ATK and DEF +30% to the user for 25 seconds, grants Haste and Burst Mode to the user</td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td></td>
 						            </tr>
@@ -7297,9 +7297,9 @@
 						                <td>KH</td>
 						                <td>Yuffie</td>
 						                <td>Shuriken (KH)</td>
-						                <td>USB</td>
-						                <td></td>
-						                <td></td>
+						                <td>USB 3</td>
+						                <td>Earth / NE</td>
+						                <td>En-earth. Ten single ranged attacks (0.71 each), grants Attach Earth, Physical Blink 1 and Stoneshatter Skyshock Follow-Up to the user</td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td></td>
 						            </tr>
