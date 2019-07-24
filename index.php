@@ -467,7 +467,7 @@
 						                <td>AOSB</td>
 						                <td>Earth</td>
 						                <td>Three single attacks (26.50 each) capped at 99999</td>
-						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						            </tr>
 						            <tr>
@@ -1403,6 +1403,16 @@
 						                <td>En-dark. Ten single attacks (1.70 each), DEF and MAG +30% to the user for 25 seconds, grants Attach Dark and HP Stock (6000) to the user</td>
 						                <td></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						            </tr>
+						            <tr>
+						                <td>FF4</td>
+						                <td>Golbez</td>
+						                <td>Master Rod</td>
+						                <td>USB 2</td>
+						                <td>Dark / NE</td>
+						                <td>En-dark. Ten single attacks (1.70 each), damages the user for 99% max HP, grants Attach Dark, Stoneskin: 100% and Shadow Dragon Mode to the user</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
 						            </tr>
 						            <tr>
 						                <td>FF4</td>
@@ -4514,7 +4524,7 @@
 						                <td>USB 2</td>
 						                <td>Fire / NE</td>
 						                <td>En-fire. Ten single attacks (0.71 each), grants Attach Fire, Lingering Flame Finisher and Friend's Promise 0 to the user</td>
-						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						            </tr>
 						            <tr>
@@ -6192,7 +6202,7 @@
 						                <td>BSB</td>
 						                <td>Fire / NE</td>
 						                <td>Eight single attacks (0.92 each), ATK, DEF, MAG and RES -40% for 25 seconds, grants Haste and Burst Mode to the user</td>
-						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						            </tr>
 						            <tr>
