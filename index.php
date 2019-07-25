@@ -3389,7 +3389,7 @@
 						                <td>AOSB 1</td>
 						                <td>Ice</td>
 						                <td>Three single attacks (8.00 each) capped at 99999</td>
-						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						            </tr>
 						            <tr>
@@ -3399,7 +3399,7 @@
 						                <td>USB 1</td>
 						                <td>Ice / NE</td>
 						                <td>Nine single attacks (0.83 each), grants High Quick Cast 2 and EX: SeeD to the user</td>
-						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						            </tr>
 						            <tr>
@@ -3561,6 +3561,16 @@
 						                <td>One single attack (10.50~14.50 scaling with Monk abilities used) capped at 99999</td>
 						                <td></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						            </tr>
+						            <tr>
+						                <td>FF8</td>
+						                <td>Raijin</td>
+						                <td>Raijin's Staff</td>
+						                <td>BSB</td>
+						                <td>Lightning / NE</td>
+						                <td>En-lightning. Eight single attacks (0.83 each), grants Haste, Attach Lightning and Burst Mode to the user</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
 						            </tr>
 						            <tr>
 						                <td>FF8</td>
@@ -3929,7 +3939,7 @@
 						                <td>USB 1</td>
 						                <td>Medica</td>
 						                <td>Restores HP (85), grants Last Stand and High Regen</td>
-						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						            </tr>
 						            <tr>
