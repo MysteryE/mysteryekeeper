@@ -7223,6 +7223,16 @@
 						            </tr>
 						            <tr>
 						                <td>FFT0</td>
+						                <td>Ace</td>
+						                <td>Reed Cloak</td>
+						                <td>LMR 3</td>
+						                <td></td>
+						                <td>25?% chance to dualcast abilities that deal Fire damage</td>
+						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						            </tr>
+						            <tr>
+						                <td>FFT0</td>
 						                <td>Seven</td>
 						                <td>Silver Whipblade</td>
 						                <td>USB</td>
