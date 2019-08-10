@@ -533,6 +533,16 @@
 						            <tr>
 						                <td>FF2</td>
 						                <td>Emperor</td>
+						                <td>Violet Robe</td>
+						                <td>Glint</td>
+						                <td></td>
+						                <td>Causes Minor Debuff Lightning, grants High Quick Cast 2 to the user</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
+						            </tr>
+						            <tr>
+						                <td>FF2</td>
+						                <td>Emperor</td>
 						                <td>Imperial Shell (II)</td>
 						                <td>LMR 1</td>
 						                <td></td>
@@ -1087,12 +1097,12 @@
 						            <tr>
 						                <td>FF4</td>
 						                <td>Paladin Cecil</td>
-						                <td>Kingsword</td>
-						                <td>USB 3 / BUSB</td>
-						                <td>Holy</td>
-						                <td>Ten single attacks (0.72 each), grants Last Stand to all allies, grants Knight +30% Boost and Brave Mode to the user</td>
-						                <td></td>
+						                <td>Lightbringer</td>
+						                <td>USB 1</td>
+						                <td>Holy / NE</td>
+						                <td>En-holy. Ten single attacks (0.71 each), grants HP Stock (6000), Attach Holy, and EX: Paladin to the user</td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
 						            </tr>
 						            <tr>
 						                <td>FF4</td>
@@ -1103,6 +1113,16 @@
 						                <td>DEF and RES +200% for 25 seconds, grants EX: Lunarian to the user</td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td></td>
+						            </tr>
+						            <tr>
+						                <td>FF4</td>
+						                <td>Paladin Cecil</td>
+						                <td>Kingsword</td>
+						                <td>USB 3 / BUSB</td>
+						                <td>Holy</td>
+						                <td>Ten single attacks (0.72 each), grants Last Stand to all allies, grants Knight +30% Boost and Brave Mode to the user</td>
+						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						            </tr>
 						            <tr>
 						                <td>FF4</td>
@@ -1959,6 +1979,16 @@
 						            <tr>
 						                <td>FF5</td>
 						                <td>Galuf</td>
+						                <td>Sledgehammer</td>
+						                <td>BSB 1</td>
+						                <td>Fire / Earth</td>
+						                <td>Imperil Fire (2). Six single attacks (1.27 each), causes Imperil Fire 20% for 25 seconds, grants Haste and Burst Mode to the user</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
+						            </tr>
+						            <tr>
+						                <td>FF5</td>
+						                <td>Galuf</td>
 						                <td>Murasame</td>
 						                <td>BSB 2</td>
 						                <td>Earth / Fire</td>
@@ -2351,6 +2381,16 @@
 						            <tr>
 						                <td>FF6</td>
 						                <td>Kefka</td>
+						                <td>Kefka's Gloves</td>
+						                <td>OSB</td>
+						                <td>Dark / NE</td>
+						                <td>One single attack (37.50) capped at 99999, 42.50 multiplier if exploiting elemental weakness</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
+						            </tr>
+						            <tr>
+						                <td>FF6</td>
+						                <td>Kefka</td>
 						                <td>Dancing Mad</td>
 						                <td>BSB 1</td>
 						                <td>Poison / NE</td>
@@ -2415,7 +2455,7 @@
 						                <td>AOSB</td>
 						                <td>Holy / Ice / Wind</td>
 						                <td>Three single attacks (8.00 each) capped at 99999</td>
-						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						            </tr>
 						            <tr>
@@ -3177,7 +3217,7 @@
 						                <td>Chain / Gen.0</td>
 						                <td>Lightning</td>
 						                <td>Activates Lightning Chain (max 99, field +20%)</td>
-						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						            </tr>
 						            <tr>
@@ -3409,7 +3449,7 @@
 						                <td>USB 2</td>
 						                <td>Ice / NE</td>
 						                <td>En-ice. Twelve single attacks (0.58 each), grants Attach Ice and EX: Lion to the user</td>
-						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						            </tr>
 						            <tr>
@@ -3649,6 +3689,16 @@
 						                <td>OSB</td>
 						                <td>Wind / Dark</td>
 						                <td>One single attack (37.20) capped at 99999, 42.80 multiplier if exploiting elemental weakness</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
+						            </tr>
+						            <tr>
+						                <td>FF8</td>
+						                <td>Ultimecia</td>
+						                <td>Demon's Rod</td>
+						                <td>BSB</td>
+						                <td>Wind / Dark</td>
+						                <td>En-wind. Eight single attacks (1.88 each), grants Haste, Attach Wind and Burst Mode to the user</td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td></td>
 						            </tr>
@@ -4256,6 +4306,16 @@
 						            </tr>
 						            <tr>
 						                <td>FF9</td>
+						                <td>Eiko</td>
+						                <td>Eiko's Guise</td>
+						                <td>LMR 1</td>
+						                <td></td>
+						                <td>25% chance to dualcast White Magic abilities</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
+						            </tr>
+						            <tr>
+						                <td>FF9</td>
 						                <td>Marcus</td>
 						                <td>Marcus's Sword</td>
 						                <td>USB</td>
@@ -4351,6 +4411,16 @@
 						                <td>USB 1</td>
 						                <td>Wind / NE</td>
 						                <td>En-wind. Ten single ranged jump attacks (0.71 each), DEF and RES -50% for 25 seconds, grants Attach Wind and Jump Quick Cast to the user</td>
+						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						            </tr>
+						            <tr>
+						                <td>FF9</td>
+						                <td>Quina</td>
+						                <td>Qu Garb</td>
+						                <td>BSB 1</td>
+						                <td></td>
+						                <td>Five random ranged attacks (1.50 each), ATK, DEF, MAG and RES -40% for 25 seconds, grants Haste and Burst Mode to the user</td>
 						                <td></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						            </tr>
@@ -4690,6 +4760,16 @@
 						            <tr>
 						                <td>FF10</td>
 						                <td>Paine</td>
+						                <td>Dark Knight Guise</td>
+						                <td>Glint+</td>
+						                <td></td>
+						                <td>En-water. Grants Attach Water Stacking, Attach Water and Instant Cast 1</td>
+						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						            </tr>
+						            <tr>
+						                <td>FF10</td>
+						                <td>Paine</td>
 						                <td>Paine's Guise</td>
 						                <td>BSB 1</td>
 						                <td>Water / Earth / Wind</td>
@@ -4774,6 +4854,16 @@
 						                <td>LMR 1</td>
 						                <td></td>
 						                <td>25% chance to dualcast abilities that deal Dark damage</td>
+						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						            </tr>
+						            <tr>
+						                <td>FF10</td>
+						                <td>Jecht</td>
+						                <td>Comrade Ball</td>
+						                <td>AASB</td>
+						                <td>Dark / Fire / NE</td>
+						                <td>En-dark/En-fire. 15 single-target Dark/Fire/NE ranged physical attacks, Awoken Legendary Player Mode, Cap Break Level 1, Double Sphere Mode & Vigor Mode to user</td>
 						                <td></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						            </tr>
@@ -5308,7 +5398,7 @@
 						                <td>USB 1</td>
 						                <td>Dark / NE</td>
 						                <td>En-dark. Ten single attacks (0.71 each), ATK and DEF +30% to the user for 25 seconds, grants Attach Dark, Quick Cast 1 and Dark Quick Cycle to the user</td>
-						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						            </tr>
 						            <tr>
@@ -5360,6 +5450,16 @@
 						                <td>25% chance to dualcast abilities that deal Dark damage</td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td></td>
+						            </tr>
+						            <tr>
+						                <td>FF12</td>
+						                <td>Vayne</td>
+						                <td></td>
+						                <td>CSB</td>
+						                <td></td>
+						                <td></td>
+						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						            </tr>
 						            <tr>
 						                <td>FF12</td>
@@ -7270,6 +7370,16 @@
 						                <td>35% chance to grant Quick Cast 1 to the user after using a Machinist ability</td>
 						                <td></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						            </tr>
+						            <tr>
+						                <td>FFT0</td>
+						                <td>Eight</td>
+						                <td>Eight's Akademia Uniform</td>
+						                <td>BSB</td>
+						                <td>Ice / NE</td>
+						                <td>Imperil Ice (2). Eight single attacks (0.65 each), causes Imperil Ice 20% for 25 seconds, grants Haste and Burst Mode to the user</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
 						            </tr>
 
 						            <!-- KINGDOM HEARTS -->
