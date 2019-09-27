@@ -281,6 +281,16 @@
 						            <tr>
 						                <td>FF1</td>
 						                <td>Wol</td>
+						                <td>Sargatanas</td>
+						                <td>USB 2 / BUSB</td>
+						                <td>Earth / Holy</td>
+						                <td>Ten single attacks (0.63 each), ATK, MAG and MND -30% for 25 seconds, grants High Quick Cast and Brave Mode to the user</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
+						            </tr>
+						            <tr>
+						                <td>FF1</td>
+						                <td>Wol</td>
 						                <td>Monk's Leathers</td>
 						                <td>BSB 1</td>
 						                <td>NE</td>
@@ -2601,6 +2611,16 @@
 						            <tr>
 						                <td>FF6</td>
 						                <td>Kefka</td>
+						                <td>Mischief Cap</td>
+						                <td>LMR 1</td>
+						                <td></td>
+						                <td>25% chance to dualcast abilities that deal Dark damage</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
+						            </tr>
+						            <tr>
+						                <td>FF6</td>
+						                <td>Kefka</td>
 						                <td>Blueleaf Flute</td>
 						                <td>LMR 2</td>
 						                <td></td>
@@ -3845,6 +3865,16 @@
 						            <tr>
 						                <td>FF8</td>
 						                <td>Rinoa</td>
+						                <td>Rinoa's Arm Warmers</td>
+						                <td>LMR 1</td>
+						                <td></td>
+						                <td>MAG +1% for each hit dealt with damaging BLK attacks, up to +20%</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
+						            </tr>
+						            <tr>
+						                <td>FF8</td>
+						                <td>Rinoa</td>
 						                <td>Derringer</td>
 						                <td>LMR 2</td>
 						                <td></td>
@@ -4726,6 +4756,16 @@
 						            </tr>
 						            <tr>
 						                <td>FF9</td>
+						                <td>Freya</td>
+						                <td>Heavy Lance</td>
+						                <td>BSB</td>
+						                <td>Wind / NE</td>
+						                <td>Eight random ranged jump attacks (0.95 each), ATK and DEF -50% for 25 seconds, grants Haste and Burst Mode to the user</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
+						            </tr>
+						            <tr>
+						                <td>FF9</td>
 						                <td>Quina</td>
 						                <td>Qu Garb</td>
 						                <td>BSB 1</td>
@@ -5248,6 +5288,16 @@
 						            </tr>
 						            <tr>
 						                <td>FF10</td>
+						                <td>Jecht</td>
+						                <td>Spirit Band</td>
+						                <td>Glint 1</td>
+						                <td></td>
+						                <td>Grants 100% Critical 1, Critical Damage +50% 1 and Instant Cast 1</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
+						            </tr>
+						            <tr>
+						                <td>FF10</td>
 						                <td>Lulu</td>
 						                <td>Dreamy Cait Sith</td>
 						                <td>AASB</td>
@@ -5525,7 +5575,7 @@
 						                <td>USB 2</td>
 						                <td></td>
 						                <td>Grants Protect, Shell and Last Stand, grants Extreme Guard to the user</td>
-						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						            </tr>
 						            <tr>
@@ -5678,6 +5728,16 @@
 						                <td></td>
 						                <td>En-holy. Grants Attach Holy at the beginning of the battle</td>
 						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						            </tr>
+						            <tr>
+						                <td>FF12</td>
+						                <td>Vaan</td>
+						                <td>Yagyu Darkblade</td>
+						                <td>USB 1</td>
+						                <td></td>
+						                <td>Ten random attacks (0.70 each), ATK and RES -50% for 25 seconds, ATK and RES +30% to the user for 25 seconds, grants EX: Sky Pirate to the user</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						            </tr>
 						            <tr>
@@ -6677,6 +6737,16 @@
 						            <tr>
 						                <td>FF14</td>
 						                <td>Haurchefant</td>
+						                <td>Fortemps Winglet</td>
+						                <td>BSB</td>
+						                <td>Holy / Ice</td>
+						                <td>Eight random attacks (0.77 each), ATK and MAG -50% for 25 seconds, grants Haste and Burst Mode to the user</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
+						            </tr>
+						            <tr>
+						                <td>FF14</td>
+						                <td>Haurchefant</td>
 						                <td>Fortemps Haubergeon</td>
 						                <td>LMR</td>
 						                <td></td>
@@ -7440,6 +7510,16 @@
 						            </tr>
 						            <tr>
 						                <td>FFT</td>
+						                <td>Ramza</td>
+						                <td>Platinum Armor</td>
+						                <td>LMR 2</td>
+						                <td></td>
+						                <td>25% chance to dualcast abilities that deal Holy damage</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
+						            </tr>
+						            <tr>
+						                <td>FFT</td>
 						                <td>Meliadoul</td>
 						                <td>Save the Queen</td>
 						                <td>BSB</td>
@@ -8176,6 +8256,16 @@
 						                <td>En-wind. Six single hybrid ranged attacks (0.52 or 1.25 each), grants Attach Wind Stacking and Attach Wind to the user</td>
 						                <td></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						            </tr>
+						            <tr>
+						                <td>Core</td>
+						                <td>Biggs</td>
+						                <td>Coral Sword</td>
+						                <td>Glint 1</td>
+						                <td>Earth / NE</td>
+						                <td>En-earth. Six single attacks (0.52 each), grants Attach Earth Stacking and Attach Earth to the user</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
 						            </tr>
 						            <tr>
 						                <td>Core</td>
