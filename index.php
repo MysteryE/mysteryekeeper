@@ -320,6 +320,26 @@
 						            </tr>
 						            <tr>
 						                <td>FF1</td>
+						                <td>Wol</td>
+						                <td>Laevateinn</td>
+						                <td>Glint</td>
+						                <td></td>
+						                <td>Grants Twin Element Mode II (Earth/Holy), grants High Quick Cast 1</td>
+						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						            </tr>
+						            <tr>
+						                <td>FF1</td>
+						                <td>Echo</td>
+						                <td>Fairy Echo</td>
+						                <td>USB</td>
+						                <td></td>
+						                <td>DEF and MAG +30% for 25 seconds, grants Haste, Protect and Quick Cast 2	</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
+						            </tr>
+						            <tr>
+						                <td>FF1</td>
 						                <td>Echo</td>
 						                <td>Seraphic Rod</td>
 						                <td>SSB 1</td>
@@ -361,8 +381,18 @@
 						            <tr>
 						                <td>FF1</td>
 						                <td>Master</td>
+						                <td>Kaiser Knuckles</td>
+						                <td>AOSB</td>
+						                <td>Earth / Fire / Lightning</td>
+						                <td>Three single attacks (8.00 each) capped at 99999</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
+						            </tr>
+						            <tr>
+						                <td>FF1</td>
+						                <td>Master</td>
 						                <td>Power Vest</td>
-						                <td>USB</td>
+						                <td>USB 1</td>
 						                <td></td>
 						                <td>Ten single attacks (0.72 each), ATK and RES +30% to the user for 25 seconds, grants Critical Damage +50% and Flurry Follow-Up to the user</td>
 						                <td></td>
@@ -533,6 +563,16 @@
 						            <tr>
 						                <td>FF2</td>
 						                <td>Maria</td>
+						                <td>Maria's Bow</td>
+						                <td>AASB</td>
+						                <td>Earth / NE</td>
+						                <td>En-earth. Fifteen single attacks (1.50 each), grants Attach Earth, Awoken Earth, Damage Cap +10000 and Kaus Australis Follow-Up</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
+						            </tr>
+						            <tr>
+						                <td>FF2</td>
+						                <td>Maria</td>
 						                <td>Gaia Gear</td>
 						                <td>AOSB</td>
 						                <td>Earth</td>
@@ -579,6 +619,16 @@
 						                <td>Grants Medium Buff Earth and High Quick Cast 2</td>
 						                <td></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						            </tr>
+						            <tr>
+						                <td>FF2</td>
+						                <td>Maria</td>
+						                <td>Maria's Armguards</td>
+						                <td>LMR 1</td>
+						                <td></td>
+						                <td>En-earth. Grants Attach Earth at the beginning of the battle</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
 						            </tr>
 						            <tr>
 						                <td>FF2</td>
@@ -654,9 +704,19 @@
 						                <td>FF2</td>
 						                <td>Guy</td>
 						                <td>Demon Axe</td>
-						                <td>USB</td>
+						                <td>USB 1</td>
 						                <td>Earth / NE</td>
 						                <td>En-earth. Ten single attacks (0.71 each), ATK and DEF +30% the user for 25 seconds, grants Attach Earth and Monk Rank Boost to the user</td>
+						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						            </tr>
+						            <tr>
+						                <td>FF2</td>
+						                <td>Guy</td>
+						                <td>Power Vest</td>
+						                <td>USB 2</td>
+						                <td>Earth / NE</td>
+						                <td>En-earth. Ten single attacks (? each), grants Attach Earth with Stacking, Quick Cast 1 and Gaia Stamp Follow-Up to the user	</td>
 						                <td></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						            </tr>
@@ -689,6 +749,16 @@
 						                <td>PHY attacks deal 20% more damage when equipping an axe</td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td></td>
+						            </tr>
+						            <tr>
+						                <td>FF2</td>
+						                <td>Gordon</td>
+						                <td>Hero's Lance</td>
+						                <td>AASB</td>
+						                <td></td>
+						                <td>Grants High Quick Cast 3, grants Awoken Ruler's Pride, Sorrow of Loss Follow-Up and Sorrow of Loss Counter to the user	</td>
+						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						            </tr>
 						            <tr>
 						                <td>FF2</td>
@@ -727,7 +797,7 @@
 						                <td>AOSB</td>
 						                <td>Holy</td>
 						                <td>Three single attacks (28.00 each) capped at 99999</td>
-						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						            </tr>
 						            <tr>
@@ -835,6 +905,26 @@
 									<tr>
 						                <td>FF3</td>
 						                <td>Ingus</td>
+						                <td>Enhancer</td>
+						                <td>AASB</td>
+						                <td>Earth / NE</td>
+						                <td>En-earth. Fifteen single attacks (0.60 each), grants Attach Earth, Awoken Earth and Damage Cap +10000 to the user, grants Earth Radiant Shield: 75% to all allies</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
+						            </tr>
+									<tr>
+						                <td>FF3</td>
+						                <td>Ingus</td>
+						                <td>Great Axe</td>
+						                <td>AOSB</td>
+						                <td>Earth</td>
+						                <td>Three single attacks (8.00 each) capped at 99999</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
+						            </tr>
+									<tr>
+						                <td>FF3</td>
+						                <td>Ingus</td>
 						                <td>Giant's Axe</td>
 						                <td>USB 2</td>
 						                <td>Earth / NE</td>
@@ -880,7 +970,7 @@
 						                <td></td>
 						                <td>Five single attacks (1,58 each), grants Sentinel to the user</td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
-						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						            </tr>
 						            <tr>
 						                <td>FF3</td>
@@ -1155,6 +1245,16 @@
 						            <tr>
 						                <td>FF3</td>
 						                <td>Desch</td>
+						                <td>Rune Bell</td>
+						                <td>Chain / Gen.2</td>
+						                <td>Lightning</td>
+						                <td>Lightning chain (magic). Activates Lightning Chain (max 150, field +50%), MAG +50% for 25 seconds</td>
+						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						            </tr>
+						            <tr>
+						                <td>FF3</td>
+						                <td>Desch</td>
 						                <td>Gladius</td>
 						                <td>USB</td>
 						                <td>Lightning / NE</td>
@@ -1235,6 +1335,16 @@
 						            <tr>
 						                <td>FF3</td>
 						                <td>Luneth</td>
+						                <td>Blood Lance</td>
+						                <td>USB 2</td>
+						                <td>Wind / NE</td>
+						                <td>En-wind. Ten single attacks (0.71 each), grants Attach Wind, Wind Drain and Gale Spear Follow-Up to the user</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
+						            </tr>
+						            <tr>
+						                <td>FF3</td>
+						                <td>Luneth</td>
 						                <td>Dragon Lance</td>
 						                <td>OSB</td>
 						                <td>Wind / NE</td>
@@ -1249,6 +1359,16 @@
 						                <td>Glint</td>
 						                <td>Wind / NE</td>
 						                <td>En-wind. Six single attacks (0.52 each), grants Attach Wind Stacking and Attach Wind to the user</td>
+						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						            </tr>
+						            <tr>
+						                <td>FF3</td>
+						                <td>Luneth</td>
+						                <td>Gungnir</td>
+						                <td>BSB</td>
+						                <td>Wind / NE</td>
+						                <td>En-wind. Eight single ranged attacks (0.78 each), causes Stun (100%), grants Haste, Attach Wind and Burst Mode to the user</td>
 						                <td></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						            </tr>
@@ -1308,7 +1428,7 @@
 						                <td>FF4</td>
 						                <td>Kain</td>
 						                <td>Holy Lance</td>
-						                <td>USB 2</td>
+						                <td>USB 2 / BUSB</td>
 						                <td>Lightning</td>
 						                <td>En-lightning. Ten single ranged jump attacks (0.72 each), grants Attach Lightning, No Air Time 2 and Brave Mode to the user</td>
 						                <td></td>
@@ -1381,7 +1501,7 @@
 						                <td>Chain / Gen.0</td>
 						                <td>Holy</td>
 						                <td>Activates Holy Chain (max 99, field +20%)</td>
-						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						            </tr>
 						            <tr>
@@ -1447,6 +1567,16 @@
 						            <tr>
 						                <td>FF4</td>
 						                <td>Paladin Cecil</td>
+						                <td>Crystal Helm</td>
+						                <td>Glint 2</td>
+						                <td></td>
+						                <td>En-holy. Grants Attach Holy Stacking, Attach Holy and Knight High Quick Cast</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
+						            </tr>
+						            <tr>
+						                <td>FF4</td>
+						                <td>Paladin Cecil</td>
 						                <td>Caesar's Plate</td>
 						                <td>LMR 2</td>
 						                <td></td>
@@ -1503,6 +1633,26 @@
 						                <td>25% chance to dualcast White Magic abilities</td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td></td>
+						            </tr>
+						            <tr>
+						                <td>FF4</td>
+						                <td>Palom</td>
+						                <td>Prism Rod</td>
+						                <td>AASB</td>
+						                <td>Lightning / NE</td>
+						                <td>En-lightning. Fifteen single attacks (1.50 each), grants Attach Lightning, Awoken Lightning, Damage Cap +10000 and Rising Thunder to the user</td>
+						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						            </tr>
+						            <tr>
+						                <td>FF4</td>
+						                <td>Palom</td>
+						                <td>Palom's Guise</td>
+						                <td>LB Glint</td>
+						                <td></td>
+						                <td>En-Lightning to party, Instant Cast.</td>
+						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						            </tr>
 						            <tr>
 						                <td>FF4</td>
@@ -1627,10 +1777,30 @@
 						            <tr>
 						                <td>FF4</td>
 						                <td>Edward</td>
+						                <td>Faerie Harp</td>
+						                <td>Chain / Gen.2</td>
+						                <td>Holy</td>
+						                <td>Holy chain (magic). Activates Holy Chain (max 150, field +50%), MAG and MND +30% for 25 seconds</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
+						            </tr>
+						            <tr>
+						                <td>FF4</td>
+						                <td>Edward</td>
 						                <td>Lamia Harp</td>
 						                <td>BSB</td>
 						                <td></td>
 						                <td>Imperil Holy (2). Causes Imperil Holy 20% for 25 seconds, ATK +50% to all allies for 25 seconds, grants Haste and Burst Mode to the user</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
+						            </tr>
+						            <tr>
+						                <td>FF4</td>
+						                <td>Edward</td>
+						                <td>Soul Harp</td>
+						                <td>SSB</td>
+						                <td></td>
+						                <td>Eight single attacks (2,00 each), ten attacks if exploiting elemental weakness, grants Haste and Burst Mode to the user</td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td></td>
 						            </tr>
@@ -1653,16 +1823,6 @@
 						                <td>Grants Quick Cast 3 at the beginning of the battle</td>
 						                <td></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
-						            </tr>
-						            <tr>
-						                <td>FF4</td>
-						                <td>Edward</td>
-						                <td>Soul Harp</td>
-						                <td>SSB</td>
-						                <td></td>
-						                <td>Eight single attacks (2,00 each), ten attacks if exploiting elemental weakness, grants Haste and Burst Mode to the user</td>
-						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
-						                <td></td>
 						            </tr>
 						            <tr>
 						                <td>FF4</td>
@@ -1692,6 +1852,16 @@
 						                <td>Water / NE</td>
 						                <td>En-water. Ten single attacks (1.70 each), minimum damage 1100, MAG and RES +30% to all allies for 25 seconds, grants Attach Water to the user</td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						            </tr>
+						            <tr>
+						                <td>FF4</td>
+						                <td>Rydia</td>
+						                <td>Earth Whip</td>
+						                <td>USB 3 / BUSB</td>
+						                <td>Earth</td>
+						                <td>En-earth. Ten single attacks (1.73 each), grants Attach Earth, Quick Cast and Brave Mode to the user</td>
+						                <td></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						            </tr>
 						            <tr>
@@ -2004,6 +2174,16 @@
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td></td>
 						            </tr>
+						            <tr>
+						                <td>FF4</td>
+						                <td>Rubicante</td>
+						                <td>Darksteel Claw</td>
+						                <td>USB</td>
+						                <td>Fire / Dark</td>
+						                <td>Imperil fire (2). Ten single attacks (1.70 each), causes Imperil Fire 20%, grants Attach Fire and Quick Cast 3 to the user, grants Fire Radiant Shield: 75% to all allies.</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
+						            </tr>
 
 						            <!-- FINAL FANTASY V -->
 						            <tr>
@@ -2043,6 +2223,16 @@
 						                <td>USB 2</td>
 						                <td>Fire / Wind / Earth / Water</td>
 						                <td>Ten single attacks (0,69 each), grants EX: Power of the Crystals to the user</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
+						            </tr>
+						            <tr>
+						                <td>FF5</td>
+						                <td>Bartz</td>
+						                <td>Hammerhead</td>
+						                <td>USB 3</td>
+						                <td>Wind / NE</td>
+						                <td>En-wind. Ten single attacks (0.71 each), grants Attach Wind and EX: Essence of Wind to the user	</td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td></td>
 						            </tr>
@@ -2279,6 +2469,16 @@
 						            <tr>
 						                <td>FF5</td>
 						                <td>Gilgamesh</td>
+						                <td>Genji Gloves</td>
+						                <td>USB 1</td>
+						                <td>NE</td>
+						                <td>Ten single attacks (0.72 each), grants High Retaliate, 50% Critical, and EX: Legendary Swordsman to the user</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
+						            </tr>
+						            <tr>
+						                <td>FF5</td>
+						                <td>Gilgamesh</td>
 						                <td>Ama-no-Murakumo</td>
 						                <td>USB 2</td>
 						                <td>Fire / NE</td>
@@ -2357,7 +2557,7 @@
 						                <td></td>
 						            </tr>
 						            <tr>
-						                <td>FF4</td>
+						                <td>FF5</td>
 						                <td>Lenna</td>
 						                <td>Rainbow Dress</td>
 						                <td>SASB</td>
@@ -2403,6 +2603,16 @@
 						                <td>USB 3</td>
 						                <td>Medica</td>
 						                <td>Restores HP (85), grants Regenga, Minor Resist Ice and Minor Resist Water, grants Quick Cast to the user</td>
+						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						            </tr>
+						            <tr>
+						                <td>FF5</td>
+						                <td>Lenna</td>
+						                <td>Nirvana</td>
+						                <td>BSB 1</td>
+						                <td>Medica</td>
+						                <td>Restores HP (55), grants Reraise: 40%, RES and MND +30% to the user for 25 seconds, grants Haste and Burst Mode to the user</td>
 						                <td></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						            </tr>
@@ -2583,7 +2793,7 @@
 						                <td>Glint+</td>
 						                <td></td>
 						                <td>Grants Attach Earth Stacking, Attach Earth and Instant Cast 1</td>
-						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						            </tr>
 						            <tr>
@@ -2593,6 +2803,16 @@
 						                <td>BSB</td>
 						                <td>Earth / Wind</td>
 						                <td>En-earth. Eight single attacks (0.83 each), grants Haste, Attach Earth and Burst Mode to the user</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
+						            </tr>
+						            <tr>
+						                <td>FF5</td>
+						                <td>Kelger</td>
+						                <td>Kelger's Cloak</td>
+						                <td>LMR 1</td>
+						                <td></td>
+						                <td>25% chance to grant Physical Blink 1 to the user after using a Ninja ability</td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td></td>
 						            </tr>
@@ -2667,6 +2887,16 @@
 						                <td>En-fire. Ten single attacks (1.70 each), grants Attach Fire to the user, grants EX: Magitek to the user for 25 seconds</td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						            </tr>
+						            <tr>
+						                <td>FF6</td>
+						                <td>Terra</td>
+						                <td>Terra's Guise</td>
+						                <td>USB 3</td>
+						                <td>Wind / NE</td>
+						                <td>En-wind. Ten single attacks (1.70 each), grants Attach Wind, High Quick Cast 2 and EX: Enlightened Yearning to the user</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
 						            </tr>
 						            <tr>
 						                <td>FF6</td>
@@ -2837,6 +3067,16 @@
 						                <td>Restores HP (55), grants Regenga, Physical Blink 1 and High Quick Cast 2</td>
 						                <td></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						            </tr>
+						            <tr>
+						                <td>FF6</td>
+						                <td>Relm</td>
+						                <td>Lakshmi Brush</td>
+						                <td>Glint+</td>
+						                <td></td>
+						                <td>Grants Protect, Shell and Haste</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
 						            </tr>
 						            <tr>
 						                <td>FF6</td>
@@ -3101,6 +3341,16 @@
 						            <tr>
 						                <td>FF6</td>
 						                <td>Celes</td>
+						                <td>Arch Sword</td>
+						                <td>USB 1</td>
+						                <td>Holy / Ice / Wind / NE</td>
+						                <td>Ten single attacks (0.69 each), grants High Runic, Spellblade +30% Boost and Spellblade Double to the user</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
+						            </tr>
+						            <tr>
+						                <td>FF6</td>
+						                <td>Celes</td>
 						                <td>Celes's Guise</td>
 						                <td>USB 2</td>
 						                <td>Ice / NE</td>
@@ -3171,6 +3421,16 @@
 						            <tr>
 						                <td>FF6</td>
 						                <td>Edgar</td>
+						                <td>Heavy Lance</td>
+						                <td>Glint+</td>
+						                <td></td>
+						                <td>Grants Change Machinery and High Quick Cast 2</td>
+						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						            </tr>
+						            <tr>
+						                <td>FF6</td>
+						                <td>Edgar</td>
 						                <td>Edgar's Cloak</td>
 						                <td>BSB 1</td>
 						                <td>Poison / NE</td>
@@ -3201,6 +3461,16 @@
 						            <tr>
 						                <td>FF6</td>
 						                <td>Leo</td>
+						                <td>Leo's Longcoat</td>
+						                <td>BSB</td>
+						                <td>Holy / Earth</td>
+						                <td>Eight single attacks (0.94 each), ATK and RES +30% to all allies for 25 seconds, grants Haste and Burst Mode to the user</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
+						            </tr>
+						            <tr>
+						                <td>FF6</td>
+						                <td>Leo</td>
 						                <td>Imperial Highblade</td>
 						                <td>SSB</td>
 						                <td>Holy / NE</td>
@@ -3215,7 +3485,7 @@
 						                <td>LMR 1</td>
 						                <td></td>
 						                <td>PHY attacks deal 20% more damage when equipping a sword</td>
-						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						            </tr>
 						            <tr>
@@ -3391,6 +3661,16 @@
 						            <tr>
 						                <td>FF6</td>
 						                <td>Setzer</td>
+						                <td>Draconic Card</td>
+						                <td>USB 3</td>
+						                <td>Dark / NE</td>
+						                <td>En-dark. Ten single ranged attacks (0.71 each), grants Attach Dark, Quick Cast and Random Bet Follow-Up to the user</td>
+						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						            </tr>
+						            <tr>
+						                <td>FF6</td>
+						                <td>Setzer</td>
 						                <td>Setzer's Armguard</td>
 						                <td>LMR 3</td>
 						                <td></td>
@@ -3467,6 +3747,16 @@
 						                <td>USB 1</td>
 						                <td>Wind / Dark</td>
 						                <td>Five single attacks (1,50 each), grants Auto Critical and EX: Soldier to the user</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						            </tr>
+						            <tr>
+						                <td>FF7</td>
+						                <td>Cloud</td>
+						                <td>Iron Blade</td>
+						                <td>Glint+ 4</td>
+						                <td>Wind / Dark / NE</td>
+						                <td>Three random attacks (0.69 each), 100% additional critical chance</td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						            </tr>
@@ -3763,6 +4053,16 @@
 						            <tr>
 						                <td>FF7</td>
 						                <td>Aerith</td>
+						                <td>Wonder Wand</td>
+						                <td>AASB</td>
+						                <td>Medica</td>
+						                <td>Restores HP (105), removes KO (100% HP), grants Last Stand, Physical High Quick Cast 3 and Haste, grants Awoken Savior to the user</td>
+						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						            </tr>
+						            <tr>
+						                <td>FF7</td>
+						                <td>Aerith</td>
 						                <td>Umbrella</td>
 						                <td>USB 1</td>
 						                <td>Medica</td>
@@ -3824,11 +4124,21 @@
 						                <td>FF7</td>
 						                <td>Sephiroth</td>
 						                <td>Cetra Blade</td>
-						                <td>AOSB</td>
+						                <td>AOSB 1</td>
 						                <td>Dark</td>
 						                <td>Twenty single attacks (0.55 each), followed by one single attack (8.00) capped at 99999</td>
 						                <td></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						            </tr>
+						            <tr>
+						                <td>FF7</td>
+						                <td>Sephiroth</td>
+						                <td>Fire Blade</td>
+						                <td>AOSB 2</td>
+						                <td>Fire / NE</td>
+						                <td>Three single attacks (8.00 each) capped at 99999</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
 						            </tr>
 						            <tr>
 						                <td>FF7</td>
@@ -3839,6 +4149,16 @@
 						                <td>En-dark. Fifteen single ranged attacks (0.48 each), grants Attach Dark, Critical Chance 50% for 25 seconds, and EX: Legendary SOLDIER for 15 seconds to the user</td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						            </tr>
+						            <tr>
+						                <td>FF7</td>
+						                <td>Sephiroth</td>
+						                <td>Ashura</td>
+						                <td>USB 3</td>
+						                <td>Fire / NE</td>
+						                <td>En-fire. Ten single attacks (0.71 each), grants Attach Fire with Stacking, Critical Damage +50% and Instant Cast 1 to the user</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
 						            </tr>
 						            <tr>
 						                <td>FF7</td>
@@ -3913,20 +4233,30 @@
 						            <tr>
 						                <td>FF7</td>
 						                <td>Sephiroth</td>
-						                <td>Sephiroth's Dragon Mail</td>
+						                <td>Dragon Mail</td>
 						                <td>LMR 3</td>
 						                <td></td>
 						                <td>25% chance to Dualcast Samurai abilities</td>
-						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						            </tr>
 						            <tr>
 						                <td>FF7</td>
 						                <td>Zack</td>
 						                <td>Force Stealer (CC)</td>
-						                <td>USB</td>
+						                <td>USB 1</td>
 						                <td>Wind / NE</td>
 						                <td>Imperil Wind (2). Ten random attacks (0.68 each), Imperil Wind 20% for 25 seconds, grants ATK and DEF +30% for 25 seconds, Quick Cast 1 and Wind Quick Cycle to the user</td>
+						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						            </tr>
+						            <tr>
+						                <td>FF7</td>
+						                <td>Zack</td>
+						                <td>Ultima Blade</td>
+						                <td>USB 2</td>
+						                <td>Wind / NE</td>
+						                <td>En-wind. Ten single attacks (0.71 each), grants Attach Wind, Rage Mirage Follow-Up and Raging Storm Follow-Up to the user</td>
 						                <td></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						            </tr>
@@ -4013,6 +4343,16 @@
 						            <tr>
 						                <td>FF7</td>
 						                <td>Red XIII</td>
+						                <td>Diamond Barrette</td>
+						                <td>AASB</td>
+						                <td>Earth / NE</td>
+						                <td>En-earth. Fifteen single attacks (1.50 each), grants Attach Earth, Awoken Earth, Damage Cap +10000, High Quick Cast and Howling Stone Follow-Up to the user</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
+						            </tr>
+						            <tr>
+						                <td>FF7</td>
+						                <td>Red XIII</td>
 						                <td>Cosmo Barrette</td>
 						                <td>AOSB</td>
 						                <td>Earth</td>
@@ -4093,8 +4433,18 @@
 						            <tr>
 						                <td>FF7</td>
 						                <td>Reno</td>
+						                <td>Enhanced Pierce Rod</td>
+						                <td>USB 1</td>
+						                <td>Lightning / NE</td>
+						                <td>En-lightning. Ten single hybrid ranged attacks (0.71 or 1.70 each), grants ATK/DEF or DEF/MAG +30%, Attach Lightning, Quick Cast 1 and Lightning Quick Cycle to the user	</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
+						            </tr>
+						            <tr>
+						                <td>FF7</td>
+						                <td>Reno</td>
 						                <td>Imperial Guard</td>
-						                <td>USB2 / BUSB</td>
+						                <td>USB 2 / BUSB</td>
 						                <td>Lightning</td>
 						                <td>En-lightning. Ten single hybrid ranged attacks (0.72 or 1.73 each), grants Attach Lightning, Black Magic or Machinist +30% Boost and Brave Mode to the user</td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
@@ -4173,12 +4523,22 @@
 						            <tr>
 						                <td>FF7</td>
 						                <td>Shelke</td>
+						                <td>Radiant Lance</td>
+						                <td>AASB</td>
+						                <td>Lightning / NE</td>
+						                <td>En-lightning. Fifteen single attacks (0.60 each), grants Attach Lightning, Awoken Stormborn, Damage Cap +10000, and Transparent Thunderclap Follow-Up to the user</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
+						            </tr>
+						            <tr>
+						                <td>FF7</td>
+						                <td>Shelke</td>
 						                <td>Shelke's Gloves</td>
 						                <td>SSB</td>
 						                <td>Esuna</td>
 						                <td>Removes positive effects, removes negative effects to all allies, grants High Regen to all allies</td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
-						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						            </tr>
 						            <tr>
 						                <td>FF7</td>
@@ -4197,7 +4557,7 @@
 						                <td>Chain / Gen.0</td>
 						                <td>Fire</td>
 						                <td>Activates Fire Chain (max 99, field +20%)</td>
-						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						            </tr>
 						            <tr>
@@ -4217,6 +4577,16 @@
 						                <td>BSB</td>
 						                <td>Fire / NE</td>
 						                <td>Imperil Fire (2). Eight group ranged attacks (0.65 each), causes Imperil Fire 20% for 25 seconds, grants Haste and Burst Mode to the user</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
+						            </tr>
+						            <tr>
+						                <td>FF7</td>
+						                <td>Elena</td>
+						                <td>Elena's Suit</td>
+						                <td>Glint</td>
+						                <td>Fire / NE</td>
+						                <td>En-fire. Six single ranged attacks (0.52 each), grants Attach Fire Stacking and Attach Fire to the user</td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td></td>
 						            </tr>
@@ -4366,10 +4736,10 @@
 						                <td>FF8</td>
 						                <td>Squall</td>
 						                <td>Shier Trigger+</td>
-						                <td>SASB</td>
+						                <td>SASB 1</td>
 						                <td>Ice / NE</td>
 						                <td>Lv.3 En-ice. Fifteen single attacks (0.60 each), grants Attach Ice 3 with Stacking, Synchro Mode, Damage Cap +10000 and Chase Blade Follow-Up to the user</td>
-						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						            </tr>
 						            <tr>
@@ -4644,6 +5014,16 @@
 						            </tr>
 						            <tr>
 						                <td>FF8</td>
+						                <td>Raijin</td>
+						                <td>Bolt Armlet</td>
+						                <td>LMR 1</td>
+						                <td></td>
+						                <td>35% chance to grant Quick Cast 1 to the user after using a Monk ability</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
+						            </tr>
+						            <tr>
+						                <td>FF8</td>
 						                <td>Fujin</td>
 						                <td>Fujin's Twin Viper</td>
 						                <td>Chain / Gen.2</td>
@@ -4715,6 +5095,16 @@
 						            <tr>
 						                <td>FF8</td>
 						                <td>Ultimecia</td>
+						                <td>Chaos Rod</td>
+						                <td>SASB</td>
+						                <td>Wind / NE</td>
+						                <td>Lv.3 En-wind. Fifteen single attacks (1.50), grants Attach Wind 3 with Stacking, Synchro Mode, Damage Cap +10000, High Quick Cast 1 and Wind High Quick Cycle to the user	</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
+						            </tr>
+						            <tr>
+						                <td>FF8</td>
+						                <td>Ultimecia</td>
 						                <td>Phantasmal Garment I</td>
 						                <td>USB 1</td>
 						                <td>Wind / Dark</td>
@@ -4726,7 +5116,7 @@
 						                <td>FF8</td>
 						                <td>Ultimecia</td>
 						                <td>Staff of the Magi</td>
-						                <td>USB 2</td>
+						                <td>USB 2 / BUSB</td>
 						                <td>Wind / Dark</td>
 						                <td>Ten single attacks (1.50 each), DEF, RES and MND -40% for 25 seconds, grants Quick Cast and Brave Mode to the user</td>
 						                <td></td>
@@ -4786,7 +5176,7 @@
 						                <td>FF8</td>
 						                <td>Irvine</td>
 						                <td>Betelgeuse</td>
-						                <td>BSB</td>
+						                <td>BSB 1</td>
 						                <td>Fire / NE</td>
 						                <td>Five group ranged attacks (1,20 each), ATK and DEF -40% for 25 seconds, grants Haste and Burst Mode to the user</td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
@@ -4799,6 +5189,16 @@
 						                <td>SSB 2</td>
 						                <td></td>
 						                <td>Six group ranged attacks (0,98 each), ATK, DEF, MAG, RES and MND -30% for 25 seconds</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
+						            </tr>
+						            <tr>
+						                <td>FF8</td>
+						                <td>Laguna</td>
+						                <td>Ras Algethi</td>
+						                <td>AASB 1</td>
+						                <td>Ice / NE</td>
+						                <td>Imperil Ice (2). Fifteen single ranged attacks (0.60 each), causes Medium Imperil Ice (25s), grants Attach Ice, Awoken Ice, Damage Cap +10000 and Deblizz Shot Follow-Up to the user</td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td></td>
 						            </tr>
@@ -4819,7 +5219,7 @@
 						                <td>BSB 2</td>
 						                <td>Ice / NE</td>
 						                <td>En-ice. Eight single ranged attacks (0.83 each), grants Haste, Attach Ice and Burst Mode to the user</td>
-						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						            </tr>
 						            <tr>
@@ -4875,6 +5275,16 @@
 						            <tr>
 						                <td>FF8</td>
 						                <td>Edea</td>
+						                <td>Sorceress Gown</td>
+						                <td>SSB 2</td>
+						                <td>Dark</td>
+						                <td>Imperil Dark (2). Five single attacks (3.56 each), causes Imperil Dark 20% for 25 seconds</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
+						            </tr>
+						            <tr>
+						                <td>FF8</td>
+						                <td>Edea</td>
 						                <td>Aura Staff</td>
 						                <td>Glint</td>
 						                <td></td>
@@ -4911,6 +5321,16 @@
 						                <td>ATK, MAG and RES +30% for 25 seconds, grants Haste and HP Stock (2000)</td>
 						                <td></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						            </tr>
+						            <tr>
+						                <td>FF8</td>
+						                <td>Quistis</td>
+						                <td>Quistis Dress</td>
+						                <td>BSB</td>
+						                <td>Poison / NE</td>
+						                <td>En-poison. Eight random attacks (1.88 each), grants Haste, Attach Poison and Burst Mode to the user</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
 						            </tr>
 						            <tr>
 						                <td>FF8</td>
@@ -5139,7 +5559,7 @@
 						                <td>LMR</td>
 						                <td></td>
 						                <td>PHY Damage +20% with Hat equipped</td>
-						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						            </tr>
 
@@ -5218,9 +5638,19 @@
 						                <td>FF9</td>
 						                <td>Vivi</td>
 						                <td>Grand Mace</td>
-						                <td>AASB</td>
+						                <td>AASB 1</td>
 						                <td>Fire / NE</td>
 						                <td>En-fire. Fifteen single attacks (1.50 each), grants Attach Fire, Awoken Fire, Damage Cap +10000 and Vivi Trance to the user</td>
+						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						            </tr>
+						            <tr>
+						                <td>FF9</td>
+						                <td>Vivi</td>
+						                <td>Frostflash Staff</td>
+						                <td>AASB 2</td>
+						                <td>Ice / Lightning / NE</td>
+						                <td>Fifteen single attacks (2.50 each), grants Awoken Life, Damage Cap +10000, Twin Element Mode (Ice/Lightning) and Vivi Trance to the user</td>
 						                <td></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						            </tr>
@@ -5337,6 +5767,16 @@
 						            <tr>
 						                <td>FF9</td>
 						                <td>Garnet</td>
+						                <td>Empyrean Rod</td>
+						                <td>AOSB</td>
+						                <td>Lightning</td>
+						                <td>Three single attacks (26.50 each) capped at 99999</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
+						            </tr>
+						            <tr>
+						                <td>FF9</td>
+						                <td>Garnet</td>
 						                <td>Holy Rod</td>
 						                <td>USB 1</td>
 						                <td>Lightning / NE</td>
@@ -5431,6 +5871,16 @@
 						                <td>AASB 2</td>
 						                <td>Medica</td>
 						                <td>Restores HP (105), removes KO (100% HP), grants Last Stand, Haste and High Quick Cast 2, grants Awoken Unfortunate Girl to the user</td>
+						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						            </tr>
+						            <tr>
+						                <td>FF9</td>
+						                <td>Eiko</td>
+						                <td>Golden Skullcap</td>
+						                <td>AOSB</td>
+						                <td>Holy / Wind</td>
+						                <td>Three single attacks (26.50 each) capped at 99999</td>
 						                <td></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						            </tr>
@@ -5551,7 +6001,7 @@
 						                <td>LMR 3</td>
 						                <td></td>
 						                <td>Spellblade abilities deal 25% more damage when equipping a sword</td>
-						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						            </tr>
 						            <tr>
@@ -5582,6 +6032,16 @@
 						                <td>Holy / NE</td>
 						                <td>En-holy. Ten single attacks (0.71 each), ATK and DEF +30% to the user for 25 seconds, grants Attach Holy and Stock Raid Follow-Up to the user</td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						            </tr>
+						            <tr>
+						                <td>FF9</td>
+						                <td>Beatrix</td>
+						                <td>Lightbringer</td>
+						                <td>BSB 1</td>
+						                <td>Holy</td>
+						                <td>Imperil Holy (2). Four group attacks (1.37 each), 1.53 multiplier if all allies are alive, causes Imperil Holy 20% for 25 seconds, grants Haste and Burst Mode to the user</td>
+						                <td></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						            </tr>
 						            <tr>
@@ -5623,6 +6083,16 @@
 						                <td>Eight random ranged jump attacks (0.95 each), ATK and DEF -50% for 25 seconds, grants Haste and Burst Mode to the user</td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td></td>
+						            </tr>
+						            <tr>
+						                <td>FF9</td>
+						                <td>Quina</td>
+						                <td>Gold Fork</td>
+						                <td>AASB</td>
+						                <td></td>
+						                <td>Grants ATK and MND +50%, Haste and Physical Quick Cast, grants Awoken Frog Catcher and Golden Frog Follow-Up to the user</td>
+						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						            </tr>
 						            <tr>
 						                <td>FF9</td>
@@ -5683,7 +6153,7 @@
 						                <td>AASB</td>
 						                <td>Water / NE</td>
 						                <td>En-water. Fifteen single ranged attacks (0.60 each), grants Attach Water, Awoken Sharpshooter, Damage Cap +10000 and Ace Shot Follow-Up to the user</td>
-						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						            </tr>
 						            <tr>
@@ -5710,7 +6180,7 @@
 						                <td>FF10</td>
 						                <td>Tidus</td>
 						                <td>Beast Blitz</td>
-						                <td>USB 2</td>
+						                <td>USB 2 / BUSB</td>
 						                <td>Water</td>
 						                <td>En-water. Ten single ranged attacks (0.72 each), grants Attach Water, Quick Cast and Brave Mode to the user</td>
 						                <td></td>
@@ -5765,6 +6235,16 @@
 						                <td>En-water. Grants Attach Water at the beginning of the battle</td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						            </tr>
+						            <tr>
+						                <td>FF10</td>
+						                <td>Tidus</td>
+						                <td>Sonic Steel</td>
+						                <td>LMR 2</td>
+						                <td></td>
+						                <td>35% chance to grant Quick Cast 1 to the user after using a Water attack</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
 						            </tr>
 						            <tr>
 						                <td>FF10</td>
@@ -5880,9 +6360,9 @@
 						                <td>FF10</td>
 						                <td>Auron</td>
 						                <td>Shaman Bracer</td>
-						                <td>Chain</td>
+						                <td>Chain / Gen.2</td>
 						                <td>Fire</td>
-						                <td>Activates Fire Chain (max 150, field +50%), ATK +50% for 25 seconds</td>
+						                <td>Fire chain (physical). Activates Fire Chain (max 150, field +50%), ATK +50% for 25 seconds</td>
 						                <td></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						            </tr>
@@ -5983,7 +6463,7 @@
 						                <td>USB 1</td>
 						                <td>Medica</td>
 						                <td>Restores HP (85), removes KO (40% HP), grants Haste and Last Stand</td>
-						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						            </tr>
 						            <tr>
@@ -6003,7 +6483,7 @@
 						                <td>USB 4</td>
 						                <td>Medica</td>
 						                <td>En-holy. Restores HP (55), grants Quick Cast 2 and Last Stand to all allies, grants Attach Holy Stacking and Attach Holy to the user</td>
-						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						            </tr>
 						            <tr>
@@ -6060,7 +6540,7 @@
 						                <td>FF10</td>
 						                <td>Rikku</td>
 						                <td>Sorcery Targe</td>
-						                <td>Chain 1 / Gen.2</td>
+						                <td>Chain / Gen.2</td>
 						                <td>Water</td>
 						                <td>Water Chain (physical). Activates Water Chain (max 150, field +50%), ATK +50% for 25 seconds</td>
 						                <td></td>
@@ -6073,7 +6553,7 @@
 						                <td>USB 2</td>
 						                <td>Water / NE</td>
 						                <td>Imperil water (2). Ten random ranged attacks (0.67 each), causes Imperil Water 20% for 25 seconds, grants Aqua Toxin Follow-Up to the user</td>
-						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						            </tr>
 						            <tr>
@@ -6084,7 +6564,17 @@
 						                <td></td>
 						                <td>Grants Soul Break Gauge +500 to the user</td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
+						            </tr>
+						            <tr>
+						                <td>FF10</td>
+						                <td>Rikku</td>
+						                <td>Seeker Targe</td>
+						                <td>Glint</td>
+						                <td></td>
+						                <td>En-water. Grants Attach Water Stacking, Attach Water and Quick Cast 2</td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
 						            </tr>
 						            <tr>
 						                <td>FF10</td>
@@ -6113,6 +6603,16 @@
 						                <td>SSB 2</td>
 						                <td></td>
 						                <td>ATK and MAG +30% for 25 seconds, grants Instant Cast 2 to the user</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
+						            </tr>
+						            <tr>
+						                <td>FF10</td>
+						                <td>Rikku</td>
+						                <td>Lucid Targe</td>
+						                <td>LMR 3</td>
+						                <td></td>
+						                <td>25% chance to dualcast abilities that deal Water damage</td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td></td>
 						            </tr>
@@ -6394,7 +6894,7 @@
 						                <td>Fire / Lightning</td>
 						                <td>Ten single attacks (1.70 each), grants Summoning +30% Boost and Auto Firebolt Barrage to the user</td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
-						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						            </tr>
 						            <tr>
 						                <td>FF10</td>
@@ -6475,6 +6975,16 @@
 						                <td>SSB 1</td>
 						                <td></td>
 						                <td>Eight random attacks (2.23 each), grants Magical Quick Cast 5 to the user</td>
+						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						            </tr>
+						            <tr>
+						                <td>FF11</td>
+						                <td>Shantotto</td>
+						                <td>Wizard's Coat</td>
+						                <td>LMR 1</td>
+						                <td></td>
+						                <td>10% chance to dualcast Witch abilities twice</td>
 						                <td></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						            </tr>
@@ -6576,7 +7086,7 @@
 						                <td>Ice / NE</td>
 						                <td>One single attack (11,25) capped at 99999, 12,75 multiplier if exploiting elemental weakness</td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
-						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						            </tr>
 						            <tr>
 						                <td>FF11</td>
@@ -6670,6 +7180,26 @@
 						            </tr>
 						            <tr>
 						                <td>FF11</td>
+						                <td>Zeid</td>
+						                <td>Balin's Sword</td>
+						                <td>LMR 1</td>
+						                <td></td>
+						                <td>En-dark. Grants Attach Dark at the beginning of the battle</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
+						            </tr>
+						            <tr>
+						                <td>FF11</td>
+						                <td>Curilla</td>
+						                <td>Royal Guard's Shield</td>
+						                <td>AASB</td>
+						                <td>Holy / NE</td>
+						                <td>Fifteen single attacks (0.60 each), grants Attach Holy, Awoken Knight, Damage Cap +10000 and Vorpal Blade Follow-Up to the user	</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
+						            </tr>
+						            <tr>
+						                <td>FF11</td>
 						                <td>Curilla</td>
 						                <td>Bastard Sword</td>
 						                <td>USB 2</td>
@@ -6720,6 +7250,16 @@
 						            </tr>
 
 						            <!-- FINAL FANTASY XII -->
+						            <tr>
+						                <td>FF12</td>
+						                <td>Ashe</td>
+						                <td>Treaty-Blade</td>
+						                <td>AASB</td>
+						                <td>Lightning / NE</td>
+						                <td>En-lightning. Fifteen single attacks (1.50 each), grants Attach Lightning, Awoken Lightning, Damage Cap +10000 and Wrathful Thunder Follow-Up to the user</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						            </tr>
 						            <tr>
 						                <td>FF12</td>
 						                <td>Ashe</td>
@@ -6903,6 +7443,16 @@
 						            <tr>
 						                <td>FF12</td>
 						                <td>Balthier</td>
+						                <td>Fomalhaut</td>
+						                <td>USB 1</td>
+						                <td>Fire / NE</td>
+						                <td>En-fire. Ten single ranged attacks (0.71 each), grants Attach Fire, Quick Cast 1 and Machinist Quick Cycle: Fire to the user</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
+						            </tr>
+						            <tr>
+						                <td>FF12</td>
+						                <td>Balthier</td>
 						                <td>Argyle Armlet</td>
 						                <td>USB 2</td>
 						                <td>Fire / NE</td>
@@ -6933,6 +7483,16 @@
 						            <tr>
 						                <td>FF12</td>
 						                <td>Gabranth</td>
+						                <td>Blood Sword</td>
+						                <td>AASB</td>
+						                <td>Dark / NE</td>
+						                <td>En-dark. Fifteen single attacks (0.60 each), grants Attach Dark, Awoken Judge, Damage Cap +10000 and Quick Cast to the user</td>
+						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						            </tr>
+						            <tr>
+						                <td>FF12</td>
+						                <td>Gabranth</td>
 						                <td>Highway Star</td>
 						                <td>USB 1</td>
 						                <td>Dark / NE</td>
@@ -6944,7 +7504,7 @@
 						                <td>FF12</td>
 						                <td>Gabranth</td>
 						                <td>Balmung</td>
-						                <td>USB 2</td>
+						                <td>USB 2 / BUSB</td>
 						                <td>Dark</td>
 						                <td>En-dark. Ten single ranged attacks (0.72 each), grants Attach Dark, Heavy Charge Booster and Brave Mode to the user</td>
 						                <td></td>
@@ -6957,6 +7517,16 @@
 						                <td>OSB</td>
 						                <td>Dark / NE</td>
 						                <td>One single attack (11.20~14.50 scaling with Dark attacks used) capped at 99999</td>
+						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						            </tr>
+						            <tr>
+						                <td>FF12</td>
+						                <td>Gabranth</td>
+						                <td>Rune Axe</td>
+						                <td>Glint+ 1</td>
+						                <td></td>
+						                <td>Grants Soul Break Gauge +500</td>
 						                <td></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						            </tr>
@@ -6997,7 +7567,7 @@
 						                <td>Chain / Gen.0</td>
 						                <td>Dark</td>
 						                <td>Activates Dark Chain (max 99, field +20%)</td>
-						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						            </tr>
 						            <tr>
@@ -7027,6 +7597,16 @@
 						                <td>USB 2 / BUSB</td>
 						                <td>Dark / NE</td>
 						                <td>En-dark. Ten single hybrid attacks (0.71 or 1.70 each), grants Instant Cast 1 to all allies, grants Attach Dark and Brave Mode to the user</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
+						            </tr>
+						            <tr>
+						                <td>FF12</td>
+						                <td>Vayne</td>
+						                <td>Dark Sephira</td>
+						                <td>OSB</td>
+						                <td>Dark / Holy</td>
+						                <td>One single hybrid attack (12.00 or 40.00) capped at 99999</td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td></td>
 						            </tr>
@@ -7067,6 +7647,16 @@
 						                <td>USB 2</td>
 						                <td>Medica</td>
 						                <td>Restores HP (85), grants Instant Cast 1, grants Cure Step Follow-Up to the user</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						            </tr>
+						            <tr>
+						                <td>FF12</td>
+						                <td>Penelo</td>
+						                <td>Maduin Gear</td>
+						                <td>Glint+</td>
+						                <td></td>
+						                <td>Grants Protect, Shell and Haste	</td>
 						                <td></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						            </tr>
@@ -7275,6 +7865,16 @@
 						            <tr>
 						                <td>FF13</td>
 						                <td>Claire/Lightning</td>
+						                <td>Lightning's Reprise</td>
+						                <td>LMR 1</td>
+						                <td></td>
+						                <td>25% chance to dualcast abilities that deal Lightning damage	</td>
+						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						            </tr>
+						            <tr>
+						                <td>FF13</td>
+						                <td>Claire/Lightning</td>
 						                <td>Guardian Corps Cap</td>
 						                <td>LMR 2</td>
 						                <td></td>
@@ -7321,6 +7921,16 @@
 						                <td>Ten single attacks (1.73 each), grants Ice Radiant Shield: 75% to all allies, grants High Quick Cast 1 and Ice High Quick Cycle to the user</td>
 						                <td></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						            </tr>
+						            <tr>
+						                <td>FF13</td>
+						                <td>Serah</td>
+						                <td>Izanami</td>
+						                <td>BSB 2</td>
+						                <td>Ice / NE</td>
+						                <td>Imperil Ice (2). Ten random attacks (1.44 each), causes Imperil Ice 20% for 25 seconds, grants Haste and Burst Mode to the user</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
 						            </tr>
 						            <tr>
 						                <td>FF13</td>
@@ -7419,6 +8029,16 @@
 						                <td>BSB 2</td>
 						                <td>Ice / NE</td>
 						                <td>En-ice. Eight single attacks (0.83 each), grants Haste, Attach Ice and Burst Mode to the user</td>
+						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						            </tr>
+						            <tr>
+						                <td>FF13</td>
+						                <td>Noel</td>
+						                <td>Noel's Guise</td>
+						                <td>LMR 2</td>
+						                <td></td>
+						                <td>25% chance to dualcast abilities that deal Ice damage</td>
 						                <td></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						            </tr>
@@ -7531,6 +8151,16 @@
 						                <td>Six single attacks (2,57 each), 3,31 mult. if the user has any Doom, min. 500, DEF and MAG +30% to all allies for 25 sec., grants Haste and B. M. to the user</td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						            </tr>
+						            <tr>
+						                <td>FF13</td>
+						                <td>Cid Raines</td>
+						                <td>Raines's Reprise</td>
+						                <td>LMR 1</td>
+						                <td></td>
+						                <td>Increases the duration of stat buffs by 30%</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
 						            </tr>
 						            <tr>
 						                <td>FF13</td>
@@ -7802,7 +8432,7 @@
 						                <td>Holy / NE</td>
 						                <td>Eight single attacks (0,83 each), grants Last Stand to all allies, grants Haste and Burst Mode to the user</td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
-						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						            </tr>
 						            <tr>
 						                <td>FF14</td>
@@ -7877,11 +8507,21 @@
 						            <tr>
 						                <td>FF14</td>
 						                <td>Y'shtola</td>
+						                <td>Majestas</td>
+						                <td>AASB 1</td>
+						                <td>Medica</td>
+						                <td>Restores HP (105), grants Last Stand and Stoneskin: 30%, grants Awoken Guardian and High Quick Cast for 15 seconds to the user</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
+						            </tr>
+						            <tr>
+						                <td>FF14</td>
+						                <td>Y'shtola</td>
 						                <td>Nirvana Zeta</td>
 						                <td>USB 1</td>
 						                <td></td>
 						                <td>Grants Dual Blink 1 and High Regen, grants Instant Cast 1 to the user</td>
-						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						            </tr>
 						            <tr>
@@ -7931,7 +8571,7 @@
 						                <td>USB / BUSB</td>
 						                <td>Earth / Fire</td>
 						                <td>Ten single attacks (0.63 each), DEF and MAG -40% for 25 seconds, grants Ninja +30% Boost and Brave Mode to the user</td>
-						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						            </tr>
 						            <tr>
@@ -8073,7 +8713,7 @@
 						                <td>SASB</td>
 						                <td>Fire / NE</td>
 						                <td>Lv.3 En-fire. Fifteen single attack (0.60 each), grants High Quick Cast 1, Attach Fire 3 with Stacking, Synchro Mode and Damage Cap +10000 to the user</td>
-						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						            </tr>
 						            <tr>
@@ -8083,7 +8723,7 @@
 						                <td>AASB</td>
 						                <td>Fire / Earth / Lightning / NE</td>
 						                <td>Fifteen single attacks (0.60 each), grants 100% Critical, Damage Cap +10000, Awoken Lucian King and Royal Mode to the user</td>
-						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						            </tr>
 						            <tr>
@@ -8193,7 +8833,7 @@
 						                <td>LMR 2</td>
 						                <td></td>
 						                <td>PHY attacks deal 20% more damage when equipping a sword</td>
-						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						            </tr>
 						            <tr>
@@ -8299,6 +8939,16 @@
 						            <tr>
 						                <td>FF15</td>
 						                <td>Aranea</td>
+						                <td>A1-Class Powershield</td>
+						                <td>USB</td>
+						                <td>Lightning / Dark</td>
+						                <td>En-lightning. Ten single ranged jump attacks (0.71 each), ATK and DEF +30% to the user for 25 seconds, grants Attach Lightning and Dragon Boost Follow-Up to the user</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
+						            </tr>
+						            <tr>
+						                <td>FF15</td>
+						                <td>Aranea</td>
 						                <td>Stoss Spear</td>
 						                <td>OSB</td>
 						                <td>Lightning / Dark</td>
@@ -8335,6 +8985,16 @@
 						                <td>25% chance to dualcast Dragoon abilities</td>
 						                <td></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						            </tr>
+						            <tr>
+						                <td>FF15</td>
+						                <td>Gladio</td>
+						                <td>Hardedge</td>
+						                <td>AASB</td>
+						                <td>Earth / NE</td>
+						                <td>En-earth. Fifteen single attacks (0.60 each), grants Attach Earth, Awoken Earth, PHY +30% Boost, Break Arts Mode and Damage Cap +10000 to the user</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
 						            </tr>
 						            <tr>
 						                <td>FF15</td>
@@ -8465,6 +9125,16 @@
 						                <td>En-fire. Fifteen single attacks (0.60 each), grants Attach Fire, Awoken Samurai, Damage Cap +10000, Samurai Quick Cast, High Retaliate and Critical Damage +50% to the user</td>
 						                <td></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						            </tr>
+						            <tr>
+						                <td>FF15</td>
+						                <td>Cor</td>
+						                <td>Kotetsu</td>
+						                <td>AOSB</td>
+						                <td>Fire</td>
+						                <td>Three single attacks (8.00 each) capped at 99999</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
 						            </tr>
 						            <tr>
 						                <td>FF15</td>
@@ -8680,6 +9350,16 @@
 						            </tr>
 						            <tr>
 						                <td>FFT</td>
+						                <td>Alma</td>
+						                <td>Wizard Rod</td>
+						                <td>LMR 1</td>
+						                <td></td>
+						                <td>27% chance to grant Magical Blink 1 to the target after using a single-target White Magic ability that restores HP on an ally	</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
+						            </tr>
+						            <tr>
+						                <td>FFT</td>
 						                <td>Cloud</td>
 						                <td>Materia Blade</td>
 						                <td>OSB 2</td>
@@ -8726,6 +9406,16 @@
 						                <td>Holy / NE</td>
 						                <td>En-holy. Ten single attacks (0.71 each), grants High Quick Cast 1, Attach Holy and Seeker of Truth to the user</td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						            </tr>
+						            <tr>
+						                <td>FFT</td>
+						                <td>Ramza</td>
+						                <td>Platinum Shield</td>
+						                <td>Glint+</td>
+						                <td>Holy / NE</td>
+						                <td>En-holy. Six single attacks (0.52 each), grants Attach Holy Stacking and Attach Holy to the user</td>
+						                <td></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						            </tr>
 						            <tr>
@@ -8851,6 +9541,16 @@
 						            <tr>
 						                <td>FFT</td>
 						                <td>Agrias</td>
+						                <td>Venetian Shield</td>
+						                <td>SSB 2</td>
+						                <td>Holy / NE</td>
+						                <td>En-shield. Seven single attacks (1.11 each), grants Attach Holy to the user</td>
+						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						            </tr>
+						            <tr>
+						                <td>FFT</td>
+						                <td>Agrias</td>
 						                <td>Jade Armlet</td>
 						                <td>LMR 1</td>
 						                <td></td>
@@ -8920,6 +9620,16 @@
 						            </tr>
 						            <tr>
 						                <td>FFT</td>
+						                <td>Delita</td>
+						                <td>Delita's Armor</td>
+						                <td>USB 2</td>
+						                <td>Holy / Fire / Lightning / Ice</td>
+						                <td>Ten single attacks (0.69 each), grants Critical Chance 75% to the user for 25 seconds, grants Quick Cast and Hero-King Blade Follow-Up to the user</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
+						            </tr>
+						            <tr>
+						                <td>FFT</td>
 						                <td>Mustadio</td>
 						                <td>Blaze Gun</td>
 						                <td>USB</td>
@@ -8937,6 +9647,16 @@
 						                <td>Five group ranged attacks (1.17 each), ATK, DEF, MAG, RES and MND -30% for 25 seconds</td>
 						                <td></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						            </tr>
+						            <tr>
+						                <td>FFT</td>
+						                <td>Gaffgarion</td>
+						                <td>Deathbringer</td>
+						                <td>AOSB</td>
+						                <td>Dark</td>
+						                <td>Three single attacks (8.00 each) capped at 99999</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
 						            </tr>
 						            <tr>
 						                <td>FFT</td>
@@ -9008,7 +9728,7 @@
 						                <td>Glint+</td>
 						                <td>Earth</td>
 						                <td>En-earth. One single attack (2.50/3.25/5.70) capped at 99999 at Heavy Charge 0/1/2, grants Attach Earth Stacking and Attach Earth</td>
-						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						            </tr>
 						            <tr>
@@ -9084,6 +9804,16 @@
 						            <tr>
 						                <td>FFT0</td>
 						                <td>King</td>
+						                <td>Magnati</td>
+						                <td>AASB</td>
+						                <td>Lightning / NE</td>
+						                <td>En-lightning. Fifteen single ranged attacks (0.60 each), grants Attach Lightning, Awoken Lightning, Damage Cap +10000, PHY +30% Boost and Unlock Trigger Mode to the user</td>
+						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						            </tr>
+						            <tr>
+						                <td>FFT0</td>
+						                <td>King</td>
 						                <td>Outsiders</td>
 						                <td>USB</td>
 						                <td>Lightning / NE</td>
@@ -9108,7 +9838,7 @@
 						                <td>AOSB</td>
 						                <td>Holy / Dark</td>
 						                <td>Twenty single attacks (1.91 each), followed by one single attack (28.00) capped at 99999</td>
-						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						            </tr>
 						            <tr>
@@ -9488,12 +10218,32 @@
 						            <tr>
 						                <td>Beyond</td>
 						                <td>Lann</td>
+						                <td>Yellow Alpha Arm</td>
+						                <td>OSB</td>
+						                <td>NE</td>
+						                <td>One single attack (12.60) capped at 99999, 13.60 multiplier if Reynn is alive, causes Instant KO (60%)	</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
+						            </tr>
+						            <tr>
+						                <td>Beyond</td>
+						                <td>Lann</td>
 						                <td>Fritt Mirage</td>
 						                <td>BSB</td>
 						                <td>Fire / NE</td>
 						                <td>En-fire. Six group ranged attacks (0.82 each), grants Haste, Attach Fire and Burst Mode to the user</td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td></td>
+						            </tr>
+						            <tr>
+						                <td>Beyond</td>
+						                <td>Aemo</td>
+						                <td>Prism Rod</td>
+						                <td>USB</td>
+						                <td>Medica</td>
+						                <td>Restores HP (85), grants HP Stock (2000) and Astra</td>
+						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						            </tr>
 						            <tr>
 						                <td>Beyond</td>
@@ -9590,6 +10340,16 @@
 						            <tr>
 						                <td>Core</td>
 						                <td>Elarra</td>
+						                <td>Magika Phoenix</td>
+						                <td>AASB</td>
+						                <td>Medica</td>
+						                <td>Restores HP (105), removes KO (100% HP), grants Last Stand and Haste, grants Awoken Magika to the user</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
+						            </tr>
+						            <tr>
+						                <td>Core</td>
+						                <td>Elarra</td>
 						                <td>Magika Album</td>
 						                <td>USB 1</td>
 						                <td>Medica</td>
@@ -9640,11 +10400,11 @@
 						            <tr>
 						                <td>Core</td>
 						                <td>Tyro</td>
-						                <td>Tyro's Legendary Sword</td>
+						                <td>Mythgraven Blade</td>
 						                <td>AOSB 3</td>
 						                <td>Holy / Dark</td>
 						                <td>Three single ranged attacks (5.20 each) capped at 99999</td>
-						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						            </tr>
 						            <tr>
@@ -9674,7 +10434,7 @@
 						                <td>USB 4</td>
 						                <td></td>
 						                <td>Grants Haste and 50% Critical, grants High Quick Cast and Judge's Apocrypha to the user</td>
-						                <td></td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						            </tr>
 						            <tr>
@@ -9749,6 +10509,16 @@
 						            </tr>
 						            <tr>
 						                <td>Core</td>
+						                <td>Biggs</td>
+						                <td>Biggs's Guise</td>
+						                <td>LMR 1</td>
+						                <td></td>
+						                <td>En-earth. Grants Attach Earth at the beginning of the battle</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
+						            </tr>
+						            <tr>
+						                <td>Core</td>
 						                <td>Dr. Mog</td>
 						                <td>Power Staff</td>
 						                <td>Chain</td>
@@ -9796,6 +10566,16 @@
 						                <td>DEF and RES +200% for 25 seconds</td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
 						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						            </tr>
+						            <tr>
+						                <td>Core</td>
+						                <td>Dr. Mog</td>
+						                <td>Healing Staff</td>
+						                <td>LMR 1</td>
+						                <td></td>
+						                <td>25% chance to dualcast White Magic abilities</td>
+						                <td><span class="fas fa-check icon n-green"><span class="n-1-hide">yes</span></span></td>
+						                <td></td>
 						            </tr>
 
 						        </tbody>
